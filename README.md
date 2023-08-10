@@ -3,8 +3,7 @@
 
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
-
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashidhar087&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
 [![Github](https://img.shields.io/github/followers/shashidhar087?label=Follow&style=social)](https://github.com/shashidhar087)
