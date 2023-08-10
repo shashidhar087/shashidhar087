@@ -22,6 +22,8 @@
   
 - 💬 Ask me about AWS, Terraform, NodeJS, GitHub Actions
 
+- 📫 How to reach me shashidhar087@gmail.com
+
 <br>
 
 <h3 align="left">Connect with me:</h3>
