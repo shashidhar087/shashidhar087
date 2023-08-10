@@ -11,7 +11,6 @@
 <div size='20px'> Hi! My name is Shashidhar Vinayaka Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently working on  AWS, Terraform, NodeJS, Github Actions
   
@@ -36,15 +35,6 @@
 </p>
 
 <br>
-
-
-## GitHub Thropies 🏆 :
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shashidhar087)](https://github.com/shashidhar087/github-profile-trophy)
-
-<br>
-
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
